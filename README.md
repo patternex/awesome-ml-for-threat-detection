@@ -3,7 +3,7 @@ A curated list of resources to deep dive into the intersection of applied machin
 
 - [Threat detection papers](#threat-detection-papers)
 - [Threat categorization papers](#threat-categorization-papers)
-- [Machine learning systems, deployment, and operationalization papers](#explainable-ml-papers)
+- [Machine learning systems and operationalization papers](#operational-ml-papers)
 - [Other machine learning for cybersecurity repos](#other-repos)
 - [PatternEx papers](#patternex-papers)
 
@@ -19,13 +19,19 @@ A curated list of resources to deep dive into the intersection of applied machin
 
 ### Threat categorization papers
 * **A Taxonomy of Network Threats and the Effect of Current Datasets on Intrusion Detection Systems**. Hanan Hindy, David Brosset, Ethan Bayne, Amar Seeam, Christos Tachtatzis, Robert Atkinson, Xavier Bellekens. *IEEE Access, 2020*. [[PDF]](https://ieeexplore.ieee.org/iel7/6287639/8948470/09108270.pdf)
+* **A lustrum of malware network communication: Evolution and insights**. Chaz Lever†, Platon Kotzias, Davide Balzarotti, Juan Caballero and Manos Antonakakis. *IEEE Symposium on Security and Privacy, 2017*. [[PDF]](http://www.ieee-security.org/TC/SP2017/papers/409.pdf)
+* **A comprehensive measurement study of domain generating malware**. Daniel Plohmann, Khaled Yakdan, Michael Klatt, Johannes Bader, Elmar Gerhards-Padilla. *25th USENIX Security Symposium, 2016*. [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_plohmann.pdf)
+* **A Survey on Botnet Architectures, Detection and Defences.** Muhammad Mahmoud, Manjinder Nir and Ashraf Matrawy. *International Journal of Network Security, 2015*. [[PDF]](http://ijns.jalaxy.com.tw/contents/ijns-v17-n3/ijns-v17-n3.pdf#page=48)
 * **Practical Comprehensive Bounds on Surreptitious Communication over DNS**. Vern Paxson, Mihai Christodorescu, Mobin Javed, Josyula Rao, Reiner Sailer, Douglas Lee Schales, and Marc Ph. Stoecklin, Kurt Thomas, Wietse Venema and Nicholas Weaver. *22nd USENIX Security Symposium, 2013*. [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_paxson.pdf)
+* **Analysis of security data from a large computing organization**. A. Sharma, Z. Kalbarczyk, J. Barlow and R. Iyer. *IEEE/IFIP 41st International Conference on Dependable Systems & Networks (DSN), 2011.* [[PDF]](http://www.academia.edu/download/40319777/Analysis_of_security_data_from_a_large_c20151123-15766-14wy5bo.pdf)
 
 
-### Machine learning systems, deployment, and operationalization papers
+### Machine learning systems and operationalization papers
 * **A survey of methods for explaining black box models**. Riccardo  Guidotti profile imageRiccardo Guidotti, Anna  Monreale, Salvatore  Ruggieri, Franco  Turini, Fosca  Giannotti, Dino  Pedreschi. *ACM Computing Surveys, 2018*. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3236009)
-* **Hidden Technical Debt in Machine Learning Systems**. D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-François Crespo, Dan Dennison. *Advances in Neural Information Processing Systems (NIPS), 2015*.[[PDF]](http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+* **Hidden Technical Debt in Machine Learning Systems**. D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-François Crespo, Dan Dennison. *Advances in Neural Information Processing Systems (NIPS), 2015*. [[PDF]](http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+* **Interpreting and unifying outlier scores**. Hans-Peter Kriegel, Peer Kroger, Erich Schubert and Arthur Zimek. *SIAM International Conference on Data Mining, 2011*. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.232.2719&rep=rep1&type=pdf)
 * **Outside the Closed World: On Using Machine Learning for Network Intrusion Detection**. Robin Sommer and Vern Paxson. *IEEE Symposium on Security and Privacy, 2010*. [[PDF]](https://www.icir.org/robin/papers/oakland10-ml.pdf)
+* **Converting output scores from outlier detection algorithms into probability estimates**. Jing Gao and Pang-ning Tan. *International Conference on Data Mining (ICDM), 2006.* [[PDF]](https://core.ac.uk/download/pdf/193238184.pdf)
 
 
 ### Other machine learning for cybersecurity repos

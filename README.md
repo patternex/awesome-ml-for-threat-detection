@@ -1,5 +1,5 @@
 # Awesome Applied ML for Threat Detection
-A curated list of resources to study the intersection of applied machine learning, distributed systems, and threat detection
+A curated list of resources to deep dive into the intersection of applied machine learning and threat detection
 
 - [Threat detection papers](#threat-detection-papers)
 - [Threat categorization papers](#threat-categorization-papers)

@@ -1,5 +1,12 @@
-# Awesome Applied ML for Threat Detection
-A curated list of resources to deep dive into the intersection of applied machine learning and threat detection.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![](https://img.shields.io/github/stars/patternex/awesome-ml-for-threat-detection)
+
+# Awesome ML for Threat Detection
+
+A curated list of resources to deep dive into the intersection of applied machine learning and threat detection. 
+
+
+## Table of Contents
 
 - [Threat detection papers](#threat-detection-papers)
 - [Threat categorization papers](#threat-categorization-papers)
@@ -39,13 +46,6 @@ A curated list of resources to deep dive into the intersection of applied machin
 * **Converting output scores from outlier detection algorithms into probability estimates**. Jing Gao and Pang-ning Tan. *International Conference on Data Mining (ICDM), 2006.* [[PDF]](https://core.ac.uk/download/pdf/193238184.pdf)
 
 
-### Other machine learning for cybersecurity repos
-* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-* [Awesome Machine Learning And Cybersecurity](https://github.com/mebiux/Awesome-ML-Cybersecurity)
-* [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security)
-* [Machine Learning and Cyber Security Resources](https://github.com/dleyanlin/Machine-Learning-and-Cyber-Security-Resources)
-
-
 ### PatternEx papers
 * **The Holy Grail of “Systems for Machine Learning”: Teaming humans and machine learning for detecting cyber threats**. Ignacio Arnaldo and Kalyan Veeramachaneni. *ACM SIGKDD Explorations Newsletter 21, 2019*. [[PDF]](https://www.kdd.org/exploration_files/5._CR_18._The_challenges_in_teaming_humans_-_Final.pdf) 
 * **Shooting the moving target: machine learning in cybersecurity**. Ankit Arun and Ignacio Arnaldo. *USENIX Conference on Operational Machine Learning (OpML), 2019.* [[PDF]](https://www.usenix.org/system/files/opml19papers-arun.pdf) 
@@ -54,3 +54,14 @@ A curated list of resources to deep dive into the intersection of applied machin
 * **Learning representations for log data in cybersecurity**. Ignacio Arnaldo, Alfredo Cuesta-Infante, Ankit Arun, Mei Lam, Costas Bassias and Kalyan Veeramachaneni. *International Conference on Cyber Security Cryptography and Machine Learning, 2017*. [[PDF]](https://dai.lids.mit.edu/wp-content/uploads/2018/02/2017_CSCML_Learning_log_representations_camera_ready_v2-3-1-1.pdf)
 * **AI2: Training a Big Data Machine to Defend**. Kalyan Veeramachaneni, Ignacio Arnaldo, Vamsi Korrapati, Constantinos Bassias and Ke Li. *2nd IEEE International Conference on Big Data Security on Cloud, 2016*. [[PDF]](https://dai.lids.mit.edu/wp-content/uploads/2017/10/AI2_Paper.pdf) 
 
+
+### Other machine learning for cybersecurity repos
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+* [Awesome Machine Learning And Cybersecurity](https://github.com/mebiux/Awesome-ML-Cybersecurity)
+* [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security)
+* [Machine Learning and Cyber Security Resources](https://github.com/dleyanlin/Machine-Learning-and-Cyber-Security-Resources)
+
+
+## Note
+
+The intial intent was to create a repo pointing to our own papers only (PatternEx papers) but we thought it made sense to also include papers that shaped our understanding of this space, enjoy! 

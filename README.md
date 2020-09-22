@@ -33,10 +33,10 @@ A curated list of resources to deep dive into the intersection of applied machin
 ### Machine learning systems and operationalization papers
 * **A survey of methods for explaining black box models**. Riccardo  Guidotti profile imageRiccardo Guidotti, Anna  Monreale, Salvatore  Ruggieri, Franco  Turini, Fosca  Giannotti, Dino  Pedreschi. *ACM Computing Surveys, 2018*. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3236009)
 * **Hidden Technical Debt in Machine Learning Systems**. D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-François Crespo, Dan Dennison. *Advances in Neural Information Processing Systems (NIPS), 2015*. [[PDF]](http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+* **Local Outlier Detection with Interpretation**. Xuan Hong Dang, Barbora Micenková, Ira Assent and Raymond T. Ng. *European Conference on Machine Learning and Knowledge Discovery in Databases, 2013.* [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-40994-3_20.pdf)
 * **Interpreting and unifying outlier scores**. Hans-Peter Kriegel, Peer Kroger, Erich Schubert and Arthur Zimek. *SIAM International Conference on Data Mining, 2011*. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.232.2719&rep=rep1&type=pdf)
 * **Outside the Closed World: On Using Machine Learning for Network Intrusion Detection**. Robin Sommer and Vern Paxson. *IEEE Symposium on Security and Privacy, 2010*. [[PDF]](https://www.icir.org/robin/papers/oakland10-ml.pdf)
 * **Converting output scores from outlier detection algorithms into probability estimates**. Jing Gao and Pang-ning Tan. *International Conference on Data Mining (ICDM), 2006.* [[PDF]](https://core.ac.uk/download/pdf/193238184.pdf)
-* **Local Outlier Detection with Interpretation**. Xuan Hong Dang, Barbora Micenková, Ira Assent and Raymond T. Ng. *European Conference on Machine Learning and Knowledge Discovery in Databases, 2013.* [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-40994-3_20.pdf)
 
 
 ### Other machine learning for cybersecurity repos

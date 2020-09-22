@@ -12,9 +12,13 @@ A curated list of resources to deep dive into the intersection of applied machin
 * **Malicious URL Detection using Machine Learning: A Survey**. Doyen Sahoo, Chenghao Liu and Steven C.H. Hoi. *arXiv, 2017*. [[PDF]](https://arxiv.org/pdf/1701.07179)
 * **SoK: Applying Machine Learning in Security - A Survey**. Heju Jiang, Jasvir Nagra, Parvez Ahammad. *arXiv, 2016*. [[PDF]](https://arxiv.org/pdf/1611.03186)
 * **Predicting Domain Generation Algorithms with Long Short-Term Memory Networks**. Jonathan Woodbridge, Hyrum S. Anderson, Anjum Ahuja and Daniel Grant. *arXiv, 2016*. [[PDF]](https://arxiv.org/pdf/1611.00791)
+* **Network connectivity graph for malicious traffic dissection**. Enrico Bocchi, Luigi Grimaudo, Marco Mellia, Elena Baralis, Sabyasachi Saha, Stanislav Miskovic, Gaspar Modelo-Howard, Sung-Ju Lee. *24th International Conference on Computer Communication and Networks (ICCCN), 2015*. [[PDF]](https://iris.polito.it/retrieve/handle/11583/2625360/76615/connectivity_graph.pdf)
+* **Detecting malicious domains via graph inference**. Pratyusa K. Manadhata, Sandeep Yadav, Prasad Rao, William Horne. *ACM Conference on Computer and Communications Security, 2014*. [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-319-11203-9_1.pdf)
 * **Nazca: Detecting Malware Distribution in Large-Scale Networks.** Luca Invernizzi, Stanislav Miskovic, Ruben Torres, Sabyasachi Saha, Sung-ju Lee, Marco Mellia, Christopher Kruegel and Giovanni Vigna. *NDSS Symposium, 2014*. [[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.2760&rep=rep1&type=pdf)
 * **Machine learning for identifying botnet network traffic**. Matija Stevanovic and Jens Myrup Pedersen. *Aalborg University (Technical report), 2013*. [[PDF]](https://vbn.aau.dk/ws/portalfiles/portal/75720938/paper.pdf)
 * **Survey on network‐based botnet detection methods**. Sebastián García, Alejandro Zunino and Marcelo Campo. *Security and Communication Networks, 2013*. [[PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sec.800)
+* **Detecting insider threats in a real corporate database of computer usage activity**. Ted E. Senator et al. *19th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD), 2013*. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.480.1037&rep=rep1&type=pdf)
+* **Botnet detection based on traffic behavior analysis and flow intervals**. David Zhao, Issa Traore, Bassam Sayed, Wei Lu, Sherif Saad, Ali Ghorbani, Dan Garant. *Computers & Security, 2013*. [[PDF]](https://www.researchgate.net/profile/Sherif_Saad/publication/259117704_Botnet_detection_based_on_traffic_behavior_analysis_and_flow_intervals/links/5a303435aca27271ec89f8e5/Botnet-detection-based-on-traffic-behavior-analysis-and-flow-intervals.pdf)
 
 
 ### Threat categorization papers
@@ -32,6 +36,7 @@ A curated list of resources to deep dive into the intersection of applied machin
 * **Interpreting and unifying outlier scores**. Hans-Peter Kriegel, Peer Kroger, Erich Schubert and Arthur Zimek. *SIAM International Conference on Data Mining, 2011*. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.232.2719&rep=rep1&type=pdf)
 * **Outside the Closed World: On Using Machine Learning for Network Intrusion Detection**. Robin Sommer and Vern Paxson. *IEEE Symposium on Security and Privacy, 2010*. [[PDF]](https://www.icir.org/robin/papers/oakland10-ml.pdf)
 * **Converting output scores from outlier detection algorithms into probability estimates**. Jing Gao and Pang-ning Tan. *International Conference on Data Mining (ICDM), 2006.* [[PDF]](https://core.ac.uk/download/pdf/193238184.pdf)
+* **Local Outlier Detection with Interpretation**. Xuan Hong Dang, Barbora Micenková, Ira Assent and Raymond T. Ng. *European Conference on Machine Learning and Knowledge Discovery in Databases, 2013.* [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-40994-3_20.pdf)
 
 
 ### Other machine learning for cybersecurity repos

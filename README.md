@@ -22,10 +22,6 @@ A curated list of resources to study the intersection of applied machine learnin
 * aaaa
 * bbbb
 
-### PatternEx papers
-* aaaa
-* bbbb
-
 ### Books
 * aaaa
 * bbbb
@@ -39,3 +35,8 @@ A curated list of resources to study the intersection of applied machine learnin
 * [Awesome Machine Learning And Cybersecurity](https://github.com/mebiux/Awesome-ML-Cybersecurity)
 * [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security)
 * [Machine Learning and Cyber Security Resources](https://github.com/dleyanlin/Machine-Learning-and-Cyber-Security-Resources)
+
+### PatternEx papers
+* aaaa
+* bbbb
+

@@ -11,8 +11,8 @@ A curated list of resources to deep dive into the intersection of applied machin
 - [Threat detection papers](#threat-detection-papers)
 - [Threat characterization papers](#threat-characterization-papers)
 - [Machine learning systems and operationalization papers](#machine-learning-systems-and-operationalization-papers)
-- [Other machine learning for cybersecurity repos](#other-machine-learning-for-cybersecurity-repos)
 - [PatternEx papers](#patternex-papers)
+- [Other machine learning for cybersecurity repos](#other-machine-learning-for-cybersecurity-repos)
 
 
 ### Threat detection papers

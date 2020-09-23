@@ -9,7 +9,7 @@ A curated list of resources to deep dive into the intersection of applied machin
 ## Table of Contents
 
 - [Threat detection papers](#threat-detection-papers)
-- [Threat categorization papers](#threat-categorization-papers)
+- [Threat characterization papers](#threat-characterization-papers)
 - [Machine learning systems and operationalization papers](#operational-ml-papers)
 - [Other machine learning for cybersecurity repos](#other-repos)
 - [PatternEx papers](#patternex-papers)
@@ -28,7 +28,7 @@ A curated list of resources to deep dive into the intersection of applied machin
 * **Botnet detection based on traffic behavior analysis and flow intervals**. David Zhao, Issa Traore, Bassam Sayed, Wei Lu, Sherif Saad, Ali Ghorbani, Dan Garant. *Computers & Security, 2013*. [[PDF]](https://www.researchgate.net/profile/Sherif_Saad/publication/259117704_Botnet_detection_based_on_traffic_behavior_analysis_and_flow_intervals/links/5a303435aca27271ec89f8e5/Botnet-detection-based-on-traffic-behavior-analysis-and-flow-intervals.pdf)
 
 
-### Threat categorization papers
+### Threat characterization papers
 * **A Taxonomy of Network Threats and the Effect of Current Datasets on Intrusion Detection Systems**. Hanan Hindy, David Brosset, Ethan Bayne, Amar Seeam, Christos Tachtatzis, Robert Atkinson, Xavier Bellekens. *IEEE Access, 2020*. [[PDF]](https://ieeexplore.ieee.org/iel7/6287639/8948470/09108270.pdf)
 * **A lustrum of malware network communication: Evolution and insights**. Chaz Lever, Platon Kotzias, Davide Balzarotti, Juan Caballero and Manos Antonakakis. *IEEE Symposium on Security and Privacy, 2017*. [[PDF]](http://www.ieee-security.org/TC/SP2017/papers/409.pdf)
 * **A comprehensive measurement study of domain generating malware**. Daniel Plohmann, Khaled Yakdan, Michael Klatt, Johannes Bader, Elmar Gerhards-Padilla. *25th USENIX Security Symposium, 2016*. [[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_plohmann.pdf)
